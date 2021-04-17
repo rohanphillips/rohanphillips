@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rohanphillips
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m rohanphillips
+- 👀 I’m interested in React/Redux with Rails API connectivity
+- 🌱 I’m currently learning React proficiency
+- 💞️ I’m looking to collaborate on projects related to privacy cryptocurrencies
+- 📫 How to reach me 
 
 <!---
 rohanphillips/rohanphillips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
