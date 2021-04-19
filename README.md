@@ -14,6 +14,7 @@
   <tr>
     <td>
       (https://www.linkedin.com/in/coderbluey/ "LinkedIn")
+      [I'm an inline-style link](https://www.google.com)
     </td>
   </tr>
 </table>
