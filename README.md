@@ -5,6 +5,7 @@
 <p>:point_right: <b>Interests - </b>👀 I’m interested in React/Redux with Rails API connectivity
 <p>:point_right: <b>Learning - </b> 🌱 I’m currently learning to be more proficient in React
 <p>:point_right: <b>Collaboration - </b> 💞️ I’m looking to collaborate on projects related to privacy cryptocurrencies.
+
 <table>
   <tr>
     <td>
