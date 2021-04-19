@@ -10,6 +10,11 @@
       📫 How to reach me
     </td>
   </tr>
+  <tr>
+    <td>
+      <img class="image-content  lazy-load" alt="LI-Logo" srcset="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"> LinkedIn
+    </td>
+  </tr>
 </table>
 
 <!---
