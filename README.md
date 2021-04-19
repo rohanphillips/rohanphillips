@@ -4,16 +4,16 @@
 <p>:point_right: <b>Bio - </b>Full stack software developer | Experience building apps with Ruby on Rails and JavaScript | React & Redux | EasyLanguage developer</p>
 <p>:point_right: <b>Interests - </b>👀 I’m interested in React/Redux with Rails API connectivity
 <p>:point_right: <b>Learning - </b> 🌱 I’m currently learning to be more proficient in React
-<p>:point_right: <b>Collaboration - </b> 💞️ I’m looking to collaborate on projects related to privacy cryptocurrencies
+<p>:point_right: <b>Collaboration - </b> 💞️ I’m looking to collaborate on projects related to privacy cryptocurrencies.
 <table>
   <tr>
     <td>
-      📫 How to reach me
+      📫 How to reach me.
     </td>
   </tr>
   <tr>
     <td>
-      (https://www.linkedin.com/in/coderbluey/ "LinkedIn")
+      (https://www.linkedin.com/in/coderbluey/ "LinkedIn").
     </td>    
   </tr>
   <tr>
