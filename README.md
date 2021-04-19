@@ -16,9 +16,10 @@
       (https://www.linkedin.com/in/coderbluey/ "LinkedIn")
       [I'm an inline-style link](https://www.google.com)
     </td>
-    <td>[GitHub](http://github.com)</td>
+    <td></td>
   </tr>
 </table>
+[GitHub](http://github.com)
 
 <!---
 rohanphillips/rohanphillips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
