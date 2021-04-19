@@ -17,7 +17,7 @@
     </td>    
   </tr>
   <tr>
-    <td>my Favorite [Duck Duck Go](https://duckduckgo.com)</td>
+    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)
   </tr>
 </table>
 
