@@ -1,4 +1,5 @@
 <h1>👋 Hi, I’m Rohan Phillips</h1>
+<p>:earth_americas: Located in Coralville, Iowa USA 
 
 <p>:point_right: <b>Bio - </b>Full stack software developer | Experience building apps with Ruby on Rails and JavaScript | React & Redux | EasyLanguage developer</p>
 <p>:point_right: <b>Interests - </b>👀 I’m interested in React/Redux with Rails API connectivity
@@ -12,7 +13,7 @@
   </tr>
   <tr>
     <td>
-      <img class="image-content  lazy-load" alt="LI-Logo" srcset="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"> LinkedIn
+      [LinkedIn](https://www.linkedin.com/in/coderbluey/)
     </td>
   </tr>
 </table>
