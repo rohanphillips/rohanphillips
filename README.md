@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Rohan Phillips</h1>
 
-<p>:point_right Full stack software developer | Experience building apps with Ruby on Rails and JavaScript | React & Redux | EasyLanguage developer</p>
+<p>:point_right: Bio - Full stack software developer | Experience building apps with Ruby on Rails and JavaScript | React & Redux | EasyLanguage developer</p>
 
 - 👀 I’m interested in React/Redux with Rails API connectivity
 - 🌱 I’m currently learning React proficiency
