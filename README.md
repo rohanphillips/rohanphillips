@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>
-      [LinkedIn](https://www.linkedin.com/in/coderbluey/)
+      (https://www.linkedin.com/in/coderbluey/ "LinkedIn")
     </td>
   </tr>
 </table>
