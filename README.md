@@ -16,6 +16,7 @@
       (https://www.linkedin.com/in/coderbluey/ "LinkedIn")
       [I'm an inline-style link](https://www.google.com)
     </td>
+    <td>[GitHub](http://github.com)</td>
   </tr>
 </table>
 
