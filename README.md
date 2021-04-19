@@ -12,14 +12,16 @@
   </div>
   <div>
     <a href="https://www.linkedin.com/in/coderbluey/">
-      <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" withd="25" height="25" > coderbluey
+      LinkedIn: coderbluey
      </a>
   </div>
   <div>
    <a href="https://twitter.com/coderbluey">
-      <img width="32" align="right" src="https://github.com/rohanphillips/rohanphillips/images/twitter.png" style="width:32px;margin:0;padding:0;display:block;border:none;outline:none" >
-      Follow @CoderBluey</a>
-      
+      Twitter: @CoderBluey</a>      
+  </div>
+  <div>
+   <a href="https://rohanphillipscoding.com">
+      Blog: Rohan Phillips Coding</a>      
   </div>
 </div>
 
